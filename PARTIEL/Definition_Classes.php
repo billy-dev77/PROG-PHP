@@ -50,7 +50,7 @@ class Personne {
 	}
 
 	//Méthodes
-	private function affiche() {
+	private function afficherles() {
 		$this->num . '<br/>';
 		$this->nom . '<br/>';
 		$this->prenom . '<br/>';
